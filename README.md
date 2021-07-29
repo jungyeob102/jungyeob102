@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/C%2B%2B-#00599C?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://simpleicons.org/?q=c%2B%2B-#00599C?style=flat-square&logo=C++&logoColor=white"/>
