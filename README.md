@@ -1,5 +1,5 @@
 
-### Hi, I'm JungYeob👋
+### Hi.👋
 
 <div id="main" align="center">
   <br>
