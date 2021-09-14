@@ -24,7 +24,7 @@
   
   <a href="https://goods99.tistory.com/">
         <img 
-            src="https://img.shields.io/badge/Tstory-black?style=for-the-badge&logo=tstory&logoColor=white&link=https://https://goods99.tistory.com/"
+            src="https://img.shields.io/badge/Tstory-white?style=for-the-badge&logo=tstory&logoColor=black&link=https://https://goods99.tistory.com/"
             style="height: 10px; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
 </div>
