@@ -1,13 +1,11 @@
 
-### Hi👋
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
+:dizzy: I'm learning C++, Unreal Engine
 
 <div id="main" align="left">
   <br>
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=jungyeob102&hide=stars,contribs&count_private=true&show_icons=true"
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+  ![JUNGYEOB's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyeob102&theme=yeblu&show_icons=true)
 </div>
 
 <br>
