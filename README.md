@@ -12,4 +12,5 @@
 
 ![JUNGYEOB's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyeob102&theme=great-gatsby&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyeob102&layout=compact)](https://github.com/jungyeob102/github-readme-stats)
 
