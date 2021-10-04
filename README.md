@@ -10,7 +10,7 @@
 <br>
 
 
-![JUNGYEOB's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyeob102&theme=great-gatsby&show_icons=true)
+![JUNGYEOB's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyeob102&theme=midnight-purple&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyeob102&layout=compact)](https://github.com/jungyeob102/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyeob102&layout=compact&theme=midnight-purple)](https://github.com/jungyeob102/github-readme-stats)
 
