@@ -3,10 +3,8 @@
 
 :dizzy: I'm learning C++, Unreal Engine
 
-<div id="main" align="left">
-  <br>
-  ![JUNGYEOB's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyeob102&theme=yeblu&show_icons=true)
-</div>
+![JUNGYEOB's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyeob102&theme=yeblu&show_icons=true)
+
 
 <br>
   <p align="left">
