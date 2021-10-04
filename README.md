@@ -10,6 +10,6 @@
 <br>
 
 
-![JUNGYEOB's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyeob102&theme=yeblu&show_icons=true)
+![JUNGYEOB's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyeob102&theme=great-gatsby&show_icons=true)
 
 
